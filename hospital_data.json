@@ -1,0 +1,25 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. Sharma",
+      "specialization": "Cardiology",
+      "opd_time": "10 AM - 2 PM",
+      "fee": 500
+    },
+    {
+      "name": "Dr. Khan",
+      "specialization": "Orthopedic",
+      "opd_time": "4 PM - 8 PM",
+      "fee": 400
+    }
+  ],
+  "admission_charge": 2000,
+  "rooms": {
+    "general": 1000,
+    "private": 3000
+  },
+  "surgeries": {
+    "appendix": 50000,
+    "kidney_stone": 70000
+  }
+}
