@@ -1,6 +1,6 @@
 # Hospital_Chatbot Based on RAG
 
-##Tech Stack :
+Tech Stack :
 - Python
 - Ollama
 - Streamlit
